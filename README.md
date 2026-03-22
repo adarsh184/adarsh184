@@ -5,7 +5,7 @@ I enjoy building practical ML solutions, exploring real-world datasets, and turn
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 BCA '27 
 -  2 years in ML,Computer Vision, NLP & Data Science 
